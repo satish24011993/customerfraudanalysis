@@ -1,0 +1,343 @@
+customerEmail,paymentMethodId,paymentMethodIssuer,paymentMethodProvider,paymentMethodRegistrationFailure,paymentMethodType
+josephhoward@yahoo.com,wt07xm68b,Citizens First Banks,JCB 16 digit,True,card
+evansjeffery@yahoo.com,y3xp697jx,Solace Banks,VISA 16 digit,True,bitcoin
+evansjeffery@yahoo.com,6krszxc05,Vertex Bancorp,VISA 16 digit,False,card
+evansjeffery@yahoo.com,5z1szj2he,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card
+evansjeffery@yahoo.com,m52tx8e1s,Vertex Bancorp,Mastercard,False,card
+evansjeffery@yahoo.com,41ug157xz,Bastion Banks,American Express,False,bitcoin
+evansjeffery@yahoo.com,4dpg5sx2b,Her Majesty Trust,Maestro,False,card
+evansjeffery@yahoo.com,bcx9pa3wf,Fountain Financial Inc.,JCB 16 digit,False,card
+andersonwilliam@yahoo.com,8pneoi03z,Bastion Banks,JCB 16 digit,False,card
+andersonwilliam@yahoo.com,dluy3jka0,His Majesty Bank Corp.,Discover,False,card
+rubenjuarez@yahoo.com,pdxjdwui4,Grand Credit Corporation,Voyager,False,card
+uchen@malone.com,w1i1zq3rg,Grand Credit Corporation,American Express,False,apple pay
+uchen@malone.com,7o30osjpd,His Majesty Bank Corp.,JCB 16 digit,False,apple pay
+uchen@malone.com,76bw9eqg2,His Majesty Bank Corp.,VISA 16 digit,False,apple pay
+uchen@malone.com,gehl28i8u,Bastion Banks,JCB 16 digit,False,card
+uchen@malone.com,olr4zf09x,Grand Credit Corporation,VISA 13 digit,False,card
+uchen@malone.com,s6escw45g,Solace Banks,JCB 16 digit,False,card
+robinsoncynthia@dunn.com,wferzj9en,B,JCB 15 digit,False,paypal
+robinsoncynthia@dunn.com,n5fj5bc0e,p,VISA 16 digit,False,card
+samuel15@saunders-rhodes.com,je76d0ulj,x,VISA 13 digit,False,apple pay
+samuel15@saunders-rhodes.com,dgrnyith9,e,JCB 16 digit,False,card
+johnlowery@gmail.com,8xex97krx,Her Majesty Trust,VISA 16 digit,False,card
+johnlowery@gmail.com,yxsf33ipw,Bulwark Trust Corp.,Voyager,False,bitcoin
+jameslandry@rodriguez.com,yk3gx9knx,Her Majesty Trust,Discover,False,card
+ubranch@rivera-parker.info,37264k8rb,His Majesty Bank Corp.,Mastercard,False,paypal
+bowenwilliam@yahoo.com,4nt3vg6nr,c,Discover,False,card
+ksummers@hotmail.com,anpl44kz2,Bastion Banks,American Express,False,card
+ksummers@hotmail.com,12sooz8hm,Vertex Bancorp,Maestro,False,bitcoin
+ksummers@hotmail.com,ahnb9wv33,Her Majesty Trust,VISA 13 digit,False,card
+ksummers@hotmail.com,14t4urgqg,Vertex Bancorp,Discover,False,card
+christineklein@wright-boyd.org,9pfrhknoz,Citizens First Banks,VISA 16 digit,False,bitcoin
+christineklein@wright-boyd.org,ow9u8ogs4,Vertex Bancorp,VISA 16 digit,False,card
+christineklein@wright-boyd.org,crro031sq,Her Majesty Trust,VISA 16 digit,False,card
+meganwalters@chavez.com,o2ct2h9fp,Her Majesty Trust,Mastercard,False,card
+caleb94@sutton.info,f2juuwuwy,Her Majesty Trust,JCB 16 digit,False,paypal
+caleb94@sutton.info,5a44rykx3,Solace Banks,VISA 16 digit,False,card
+gonzalesjackson@gmail.com,7964l78jo,a,VISA 16 digit,False,apple pay
+dana09@yahoo.com,ww9fq10ca,Solace Banks,JCB 16 digit,False,bitcoin
+dana09@yahoo.com,1lejsiqz7,Bastion Banks,JCB 16 digit,False,card
+alec27@bell.com,366dsl3w0,Her Majesty Trust,VISA 16 digit,False,card
+alec27@bell.com,6n2psn50k,Fountain Financial Inc.,Voyager,False,card
+juliecook@hotmail.com,rqpuq19z6,His Majesty Bank Corp.,Voyager,False,card
+meganberry@clark.biz,bcetnywn4,Her Majesty Trust,JCB 16 digit,False,card
+meganberry@clark.biz,ck6cjfjv1,Rose Bancshares,VISA 16 digit,False,card
+psantiago@nelson.net,yngba9iss,Rose Bancshares,JCB 16 digit,False,paypal
+harrisnicholas@mitchell-hancock.com,llpmu63n4,His Majesty Bank Corp.,Mastercard,False,apple pay
+harrisnicholas@mitchell-hancock.com,1adbjdqx8,Citizens First Banks,American Express,False,card
+davismike@hotmail.com,otujzzu3i,Rose Bancshares,Diners Club / Carte Blanche,True,bitcoin
+guerramichael@hotmail.com,e7pkpmorx, ,VISA 13 digit,False,paypal
+natalie98@yahoo.com,kafhtdkmr,His Majesty Bank Corp.,VISA 16 digit,False,card
+karen54@mullins.biz,4rdcaqhb7,Vertex Bancorp,American Express,True,card
+karen54@mullins.biz,wlywsk5au,Grand Credit Corporation,VISA 16 digit,False,card
+avaldez@gmail.com,ogeeyw724,Solace Banks,Maestro,False,paypal
+blackjoel@wright.com,jud25x4mo,Vertex Bancorp,Maestro,False,card
+abigail08@yahoo.com,tfcg9eqwk,Bulwark Trust Corp.,Maestro,True,card
+abigail08@yahoo.com,st34e000q,Vertex Bancorp,VISA 16 digit,False,card
+catherine64@gmail.com,oue6y8ugr,Vertex Bancorp,Voyager,False,card
+catherine64@gmail.com,0lqd0lah5,Her Majesty Trust,JCB 16 digit,False,bitcoin
+catherine64@gmail.com,5ad6rm0sb,Vertex Bancorp,Maestro,False,card
+catherine64@gmail.com,0jzj5lgyb,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card
+catherine64@gmail.com,0tvw8yj4z,Fountain Financial Inc.,JCB 16 digit,False,card
+catherine64@gmail.com,rc5kwqehi,Grand Credit Corporation,VISA 13 digit,False,bitcoin
+romerolauren@hotmail.com,243b5b285,Fountain Financial Inc.,VISA 16 digit,False,card
+qramsey@hotmail.com,yi3002uzs,His Majesty Bank Corp.,Maestro,False,card
+qramsey@hotmail.com,uljh0fhae,Citizens First Banks,VISA 16 digit,False,card
+9es7t@u6n7x,wl0wgtfn2,Bastion Banks,Voyager,False,card
+ypruitt@hotmail.com,75d0y0a6m,Solace Banks,JCB 15 digit,False,paypal
+ypruitt@hotmail.com,vwdxqd00s,Fountain Financial Inc.,JCB 15 digit,False,card
+ypruitt@hotmail.com,r4u0mojn6,Bastion Banks,Maestro,False,card
+aweaver@yahoo.com,1ov4r2jr5,Rose Bancshares,VISA 16 digit,False,card
+richard05@hanson-key.org,ip4pd9xyu,Rose Bancshares,Discover,False,card
+paul86@hotmail.com,j6vt0l11e,Her Majesty Trust,JCB 16 digit,False,apple pay
+mark02@young.com,xci7mpl5h,Bastion Banks,VISA 16 digit,False,paypal
+mark02@young.com,w3c453rd8,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card
+johnlowery@gmail.com,vogv964fe,Fountain Financial Inc.,Diners Club / Carte Blanche,False,card
+smithtiffany@davis-perkins.com,31hzim431,Solace Banks,VISA 16 digit,False,card
+brandon58@conner.com,r0735q7at,Bastion Banks,JCB 15 digit,False,card
+knichols@gmail.com,oq6l2tau2,Rose Bancshares,Discover,False,card
+johnlowery@gmail.com,tfff8yjzo,Rose Bancshares,American Express,False,card
+jamescampbell@randall-pacheco.biz,suusse06u,His Majesty Bank Corp.,VISA 13 digit,False,card
+jamescampbell@randall-pacheco.biz,c4lqxg7tb,Bulwark Trust Corp.,Discover,False,card
+briana34@gmail.com,qkhsgv41q,Vertex Bancorp,Maestro,False,paypal
+briana34@gmail.com,h2awlopgd,Bulwark Trust Corp.,JCB 16 digit,False,apple pay
+jonesandrea@gray.biz,gxjchyxfz,Citizens First Banks,JCB 16 digit,False,paypal
+kristina41@gmail.com,cm5dp45zh,Citizens First Banks,JCB 16 digit,False,apple pay
+kristina41@gmail.com,bwj2e7i76,Vertex Bancorp,Mastercard,False,card
+kristina41@gmail.com,bkopk7uzs,Rose Bancshares,VISA 16 digit,False,card
+whodges@yahoo.com,7fra4wcw5,Her Majesty Trust,VISA 16 digit,False,apple pay
+nolanalec@yahoo.com,elpmqdsaw,Solace Banks,American Express,False,card
+nolanalec@yahoo.com,7am579wop,Solace Banks,Maestro,False,card
+nolanalec@yahoo.com,k5n97dkql,Citizens First Banks,JCB 15 digit,False,card
+spencer77@reid.com,kvc38kle1,Vertex Bancorp,JCB 16 digit,False,card
+spencer77@reid.com,50y984nk3,Vertex Bancorp,Diners Club / Carte Blanche,False,card
+spencer77@reid.com,bv4rt0waw,Citizens First Banks,JCB 16 digit,False,card
+uguzman@yahoo.com,73a2hlmnm,Her Majesty Trust,VISA 16 digit,False,card
+ssmith@levine-harmon.biz,k5xriv8co,His Majesty Bank Corp.,Maestro,True,card
+ssmith@levine-harmon.biz,was3bq380,Fountain Financial Inc.,Voyager,False,card
+feliciabrown@gmail.com,0ma0yi3jg,Her Majesty Trust,JCB 16 digit,False,card
+dianacook@gmail.com,yu71nlc3z,Vertex Bancorp,JCB 16 digit,False,card
+cookbenjamin@hotmail.com,wejtuspvr,Grand Credit Corporation,Mastercard,False,card
+joserowland@jones.com,1dsku2c3p,Citizens First Banks,VISA 13 digit,True,card
+joserowland@jones.com,f3l73qqm9,Grand Credit Corporation,American Express,False,card
+joserowland@jones.com,jxt48tbkt,Fountain Financial Inc.,Maestro,False,card
+joserowland@jones.com,r2v5bgqxf,Her Majesty Trust,VISA 16 digit,False,card
+joserowland@jones.com,yym5xo9qi,Citizens First Banks,Diners Club / Carte Blanche,False,card
+joserowland@jones.com,kz7cixrya,His Majesty Bank Corp.,JCB 16 digit,False,card
+pattersonphilip@yahoo.com,ujky4teqc,Grand Credit Corporation,American Express,False,card
+pattersonphilip@yahoo.com,6954oj7dx,His Majesty Bank Corp.,JCB 16 digit,False,paypal
+hj8maoy@1jcfcxs7,7b7gmp8al,Citizens First Banks,VISA 16 digit,False,card
+hj8maoy@1jcfcxs7,pr3xs6kdy,Fountain Financial Inc.,VISA 13 digit,False,paypal
+finleybrianna@yahoo.com,l1qil6tjh,Bastion Banks,American Express,False,card
+suzanne21@gmail.com,5i61lz4t2,B,Discover,False,bitcoin
+suzanne21@gmail.com,6ke43eyg9,r,Voyager,False,card
+johnlowery@gmail.com,opyep1aoj,Rose Bancshares,VISA 16 digit,False,card
+kristaavery@lewis-baird.com,qmskv64hj,Vertex Bancorp,JCB 15 digit,False,card
+kristaavery@lewis-baird.com,m63wgq0ru,Grand Credit Corporation,JCB 16 digit,False,card
+kristaavery@lewis-baird.com,gcg213ko9,Bulwark Trust Corp.,Discover,True,bitcoin
+dana23@lawrence.net,yte47y3ea,Her Majesty Trust,Discover,False,card
+cathy42@gibson.com,rz1xfmc67,His Majesty Bank Corp.,Mastercard,False,card
+cathy42@gibson.com,btwtyk6re,Her Majesty Trust,VISA 16 digit,False,card
+cathy42@gibson.com,6x2ihtlnz,Fountain Financial Inc.,JCB 15 digit,True,card
+cathy42@gibson.com,4mx9wdfco,Fountain Financial Inc.,VISA 13 digit,False,card
+cathy42@gibson.com,atp6ysubt,Rose Bancshares,Voyager,False,card
+cathy42@gibson.com,t70zwkr0y,Vertex Bancorp,VISA 13 digit,False,card
+cathy42@gibson.com,4th9w6eb5,Solace Banks,Diners Club / Carte Blanche,False,card
+cathy42@gibson.com,44twzasjs,Citizens First Banks,VISA 13 digit,True,card
+cathy42@gibson.com,l5dwzd2cn,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,paypal
+cathy42@gibson.com,0sst12ovh,Rose Bancshares,VISA 13 digit,False,apple pay
+cathy42@gibson.com,akor6c4n7,Vertex Bancorp,VISA 16 digit,False,paypal
+cathy42@gibson.com,4dbxeg5ji,Bastion Banks,Maestro,False,card
+cathy42@gibson.com,o1kkqrwq6,Her Majesty Trust,Discover,False,card
+cathy42@gibson.com,lvnneyxfx,Bastion Banks,JCB 16 digit,True,bitcoin
+cathy42@gibson.com,d1nvhtt2q,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card
+michelleherrera@day.info,wovt0cj5c,Fountain Financial Inc.,Discover,True,bitcoin
+ijuarez@yahoo.com,v6mrj0ec1,Her Majesty Trust,Discover,False,card
+ijuarez@yahoo.com,qwyprqq8m,Fountain Financial Inc.,VISA 16 digit,True,card
+hughesjonathan@pena.org,644b30jam,His Majesty Bank Corp.,Maestro,False,card
+hughesjonathan@pena.org,rbkqo2mz8,Bulwark Trust Corp.,VISA 16 digit,False,card
+hughesjonathan@pena.org,47ss4xvsx,Her Majesty Trust,Voyager,False,card
+anthony04@gmail.com,sdu0pppij,Citizens First Banks,Maestro,True,card
+mgould@yahoo.com,x6zmw4nns,Solace Banks,Diners Club / Carte Blanche,True,card
+mgould@yahoo.com,p6v42gsjt,Grand Credit Corporation,VISA 16 digit,False,card
+bakersydney@gmail.com,74rqcnogo,Her Majesty Trust,Voyager,False,card
+kevinreyes@johnston.net,j5mx3wzjb,Bulwark Trust Corp.,JCB 16 digit,False,card
+udavis@clark.com,2zc5i5g91,Vertex Bancorp,VISA 16 digit,False,bitcoin
+nancymayo@brown.com,8mjcums28,Bastion Banks,American Express,True,apple pay
+nancymayo@brown.com,oxpsbpotn,Citizens First Banks,Diners Club / Carte Blanche,False,apple pay
+johnlowery@gmail.com,a8dggs0xt,Bulwark Trust Corp.,JCB 16 digit,False,card
+warrenedward@arnold.com,56tr9sk22,Fountain Financial Inc.,VISA 16 digit,False,card
+warrenedward@arnold.com,lvliovokk,Solace Banks,VISA 16 digit,False,apple pay
+warrenedward@arnold.com,v50sqfm8h,Solace Banks,American Express,True,card
+warrenedward@arnold.com,w7n74xfh5,Grand Credit Corporation,JCB 16 digit,False,card
+warrenedward@arnold.com,3ahrb9ife,Citizens First Banks,Voyager,False,card
+warrenedward@arnold.com,1x7g554gf,Vertex Bancorp,VISA 16 digit,False,card
+warrenedward@arnold.com,5cyajopa3,Vertex Bancorp,Diners Club / Carte Blanche,False,card
+warrenedward@arnold.com,bhta4vgb5,Fountain Financial Inc.,VISA 13 digit,False,apple pay
+warrenedward@arnold.com,tsahtndpq,Citizens First Banks,JCB 16 digit,False,card
+warrenedward@arnold.com,ljkxr94u8,Grand Credit Corporation,JCB 15 digit,True,card
+warrenedward@arnold.com,gyziu64o9,Rose Bancshares,American Express,True,card
+warrenedward@arnold.com,4ijoedjx5,Solace Banks,JCB 16 digit,False,card
+warrenedward@arnold.com,2cbib0dca,Vertex Bancorp,VISA 16 digit,False,apple pay
+warrenedward@arnold.com,41uvo35k2,Bulwark Trust Corp.,VISA 16 digit,True,apple pay
+rbolton@hotmail.com,aiker5vh0,Her Majesty Trust,Voyager,False,card
+rbolton@hotmail.com,rcp273ore,Fountain Financial Inc.,VISA 13 digit,False,card
+rbolton@hotmail.com,895soyhh1,Vertex Bancorp,VISA 13 digit,False,apple pay
+michael57@oconnor.com,ueysrh40s,c,Discover,False,card
+michael57@oconnor.com,wb703p6gj, ,VISA 13 digit,False,bitcoin
+jonathan99@stafford.org,2nfc926ij,Rose Bancshares,Mastercard,False,card
+lleonard@turner-fleming.com,pube8iuin,Bulwark Trust Corp.,JCB 15 digit,False,card
+whitedavid@jones-lloyd.org,wsjjfydbf,Bulwark Trust Corp.,Discover,False,apple pay
+whitedavid@jones-lloyd.org,schhirx31,Solace Banks,JCB 16 digit,False,card
+whitedavid@jones-lloyd.org,twmq62jy6,Fountain Financial Inc.,JCB 16 digit,True,card
+whitedavid@jones-lloyd.org,15e6ezghu,Vertex Bancorp,JCB 15 digit,False,card
+grace99@wright.com,l009h3b0g,Solace Banks,Maestro,False,paypal
+tayloreric@gmail.com,e02yhpn93,Grand Credit Corporation,Discover,True,bitcoin
+tayloreric@gmail.com,ktxquppwn,Her Majesty Trust,Voyager,False,card
+shelby24@hotmail.com,ws9sghi5j,Bulwark Trust Corp.,Mastercard,False,card
+shelby24@hotmail.com,ust8991vz,Vertex Bancorp,Diners Club / Carte Blanche,True,card
+cindydelgado@gmail.com,47p53nhjt,Grand Credit Corporation,VISA 16 digit,False,paypal
+brittanydean@hotmail.com,te1pi876k,Grand Credit Corporation,Voyager,False,card
+watkinscaroline@lewis-haas.com,zsk2itfp9,Rose Bancshares,Maestro,False,card
+marissacollins@mckinney.com,5n1znn6g7,Rose Bancshares,JCB 15 digit,False,card
+craig83@rasmussen-alvarado.com,dmbt74m31,Bastion Banks,Maestro,False,bitcoin
+craig83@rasmussen-alvarado.com,16bky3czz,Bastion Banks,VISA 13 digit,False,card
+craig83@rasmussen-alvarado.com,byxohh1nu,Bastion Banks,JCB 16 digit,False,card
+craig83@rasmussen-alvarado.com,o6nbs7ejn,Her Majesty Trust,JCB 16 digit,False,card
+craig83@rasmussen-alvarado.com,z31v0ab8m,Fountain Financial Inc.,JCB 16 digit,False,card
+craig83@rasmussen-alvarado.com,m2ymrevap,Her Majesty Trust,Voyager,False,card
+craig83@rasmussen-alvarado.com,hctn5m2qg,Her Majesty Trust,VISA 16 digit,True,card
+craig83@rasmussen-alvarado.com,cgpnfqy0e,Bastion Banks,Voyager,True,apple pay
+craig83@rasmussen-alvarado.com,6ej22b866,Vertex Bancorp,Mastercard,False,bitcoin
+craig83@rasmussen-alvarado.com,2trjykrfk,Fountain Financial Inc.,Voyager,False,apple pay
+craig83@rasmussen-alvarado.com,8p7uyur08,Her Majesty Trust,JCB 16 digit,False,card
+craig83@rasmussen-alvarado.com,2g0jtwk7z,Bastion Banks,Diners Club / Carte Blanche,False,apple pay
+craig83@rasmussen-alvarado.com,xeks8j9tl,Her Majesty Trust,VISA 16 digit,False,card
+thernandez@johnson-quinn.com,5dcw1pvfp,Vertex Bancorp,VISA 16 digit,False,card
+emilyroberts@hotmail.com,k3j0csvbi,Bastion Banks,JCB 16 digit,True,paypal
+ukline@spears.biz,r3lx89nbm,n,Maestro,False,paypal
+ukline@spears.biz,annk08w5x,r,Voyager,False,card
+ukline@spears.biz,3f9jzy0az,e,Mastercard,False,bitcoin
+vmiller@hotmail.com,syeg4jsea,Citizens First Banks,JCB 16 digit,False,card
+david45@gmail.com,u1ae0romw,His Majesty Bank Corp.,Discover,False,card
+david45@gmail.com,s5crwdixe,Her Majesty Trust,Voyager,False,apple pay
+david45@gmail.com,g7u0onbnv,His Majesty Bank Corp.,JCB 15 digit,False,card
+david45@gmail.com,60ktm2k9f,Fountain Financial Inc.,JCB 16 digit,False,bitcoin
+david45@gmail.com,tulie7ios,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card
+fdavis@wolfe-brown.com,ru53ucaj4,e,Diners Club / Carte Blanche,False,card
+fdavis@wolfe-brown.com,gims4zlcp,Bulwark Trust Corp.,Voyager,False,card
+fdavis@wolfe-brown.com,enx51erqn,B,Mastercard,True,paypal
+kathleenlee@yahoo.com,qr7kuc1gm,Rose Bancshares,American Express,False,apple pay
+kathleenlee@yahoo.com,t9ilu4ywl,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card
+kathleenlee@yahoo.com,1uzbo147p,Fountain Financial Inc.,Diners Club / Carte Blanche,False,card
+benjamin19@gmail.com,i7h51ufsw,Fountain Financial Inc.,VISA 16 digit,True,card
+benjamin19@gmail.com,3y1i3h6rv,Her Majesty Trust,Discover,False,paypal
+mtrevino@gutierrez.net,gmqf23aj9,Citizens First Banks,JCB 15 digit,True,card
+mtrevino@gutierrez.net,rpyr2isd3,Bastion Banks,JCB 16 digit,False,card
+mtrevino@gutierrez.net,t2adq46ka,His Majesty Bank Corp.,Voyager,True,card
+mtrevino@gutierrez.net,js2v4zlym,Bulwark Trust Corp.,American Express,False,card
+tmcpherson@wright.com,w8f4lcsen,Rose Bancshares,VISA 13 digit,True,card
+wdelacruz@yahoo.com,n8g5z0l5a,Fountain Financial Inc.,JCB 16 digit,False,card
+brooksdustin@knight.info,5cd6aymfz,B,JCB 15 digit,False,bitcoin
+brooksdustin@knight.info,tmx17utwv,c,VISA 16 digit,False,card
+ybrown@gmail.com,4wf6hh0n2,Bulwark Trust Corp.,VISA 16 digit,False,card
+ybrown@gmail.com,os6ezvnwg,Grand Credit Corporation,JCB 16 digit,False,card
+ybrown@gmail.com,vnrb9adla,Grand Credit Corporation,Voyager,False,card
+vreyes@cruz.info,gw4lq4cuy,Citizens First Banks,VISA 13 digit,False,card
+3fooiar@6eph,nfv5hctv8,Grand Credit Corporation,Mastercard,False,card
+nicolekelly@hotmail.com,6rli0g8of,Her Majesty Trust,VISA 13 digit,False,card
+barronelizabeth@singh.org,duk5e3nae,Rose Bancshares,JCB 16 digit,False,card
+barronelizabeth@singh.org,iq66wkmk1,Grand Credit Corporation,Voyager,False,paypal
+phillip89@gmail.com,0hxz5kbtr,Fountain Financial Inc.,JCB 15 digit,False,card
+ugood@mosley.info,4iz67htjj,Fountain Financial Inc.,JCB 16 digit,False,apple pay
+ugood@mosley.info,3zzg1etrq,His Majesty Bank Corp.,VISA 13 digit,False,card
+ugood@mosley.info,jcbfj9zj6,Bulwark Trust Corp.,Diners Club / Carte Blanche,False,card
+ugood@mosley.info,3fvnm2ghs,Vertex Bancorp,JCB 16 digit,False,paypal
+zgraham@yahoo.com,l4w49qskr,Vertex Bancorp,Voyager,False,apple pay
+zgraham@yahoo.com,4lbflweug,Grand Credit Corporation,Discover,False,card
+zgraham@yahoo.com,ougmgyvof,His Majesty Bank Corp.,Maestro,False,card
+pchavez@randolph.com,3fsaflfv5,Fountain Financial Inc.,Maestro,False,paypal
+marywalker@gmail.com,c2j5dx1no,c,American Express,False,bitcoin
+marywalker@gmail.com,dakq3e620,r,JCB 16 digit,False,card
+marywalker@gmail.com,6p0e0gdmy,n,VISA 16 digit,False,card
+shawseth@stout-novak.com,9p66x7a0m,Grand Credit Corporation,VISA 16 digit,False,card
+smithtonya@huffman.org,1vwiez8vl,Grand Credit Corporation,JCB 16 digit,False,card
+hamiltonchristopher@yahoo.com,2syymyhn2,Solace Banks,VISA 16 digit,False,card
+hamiltonchristopher@yahoo.com,2051pwfti,Fountain Financial Inc.,Diners Club / Carte Blanche,False,card
+hamiltonchristopher@yahoo.com,vwvzodhr2,His Majesty Bank Corp.,JCB 15 digit,False,card
+amywright@wallace-johnson.com,88huac0bv,Fountain Financial Inc.,VISA 16 digit,True,bitcoin
+iray@rogers.com,jwnmuewma,His Majesty Bank Corp.,VISA 16 digit,False,card
+iray@rogers.com,736fivko4,Solace Banks,Voyager,False,card
+iray@rogers.com,d82ftnijx,Rose Bancshares,JCB 16 digit,False,card
+iray@rogers.com,j0eyk4wni,Solace Banks,Diners Club / Carte Blanche,False,card
+iray@rogers.com,n91uh82vv,Bulwark Trust Corp.,Discover,False,bitcoin
+ctaylor@yahoo.com,xp5bh6v2n,Citizens First Banks,Maestro,False,card
+ctaylor@yahoo.com,jjfiirq8l,Fountain Financial Inc.,JCB 16 digit,False,card
+ctaylor@yahoo.com,rqtzq4iov,Citizens First Banks,VISA 16 digit,False,card
+ctaylor@yahoo.com,ow5q7kjk6,Her Majesty Trust,JCB 16 digit,False,card
+ctaylor@yahoo.com,q96qd8pcw,Bastion Banks,American Express,False,card
+ctaylor@yahoo.com,cf3mkd213,Her Majesty Trust,JCB 16 digit,False,card
+kellyfrank@atkinson.com,pkibf1ljc,His Majesty Bank Corp.,Voyager,False,card
+gomezjohn@yahoo.com,n1ehjoa66,Rose Bancshares,JCB 15 digit,False,card
+mullenstephanie@yahoo.com,rz8r1tr8s,Solace Banks,Mastercard,False,paypal
+mullenstephanie@yahoo.com,8ohzdp1ql,Her Majesty Trust,Diners Club / Carte Blanche,False,bitcoin
+koneal@henderson.biz,h6cv0t3ga,B,VISA 16 digit,False,bitcoin
+xramos@hardy.net,pnk11fbzj,Her Majesty Trust,Mastercard,False,paypal
+brianthomas@yahoo.com,9i0e5d5ex,Bulwark Trust Corp.,JCB 16 digit,False,card
+oaguirre@hotmail.com,guxa00nn4,Rose Bancshares,Discover,False,card
+oaguirre@hotmail.com,0d9jd80l2,Fountain Financial Inc.,Voyager,False,apple pay
+oaguirre@hotmail.com,4oob2471q,Solace Banks,VISA 16 digit,False,card
+oaguirre@hotmail.com,xdrgdd29b,His Majesty Bank Corp.,Voyager,False,apple pay
+joshua00@hotmail.com,29bqx7jkh,Her Majesty Trust,JCB 16 digit,False,paypal
+joshua00@hotmail.com,j78wd3dah,Vertex Bancorp,Voyager,True,paypal
+veronica42@stokes.com,bdsvwrzwf,Solace Banks,Mastercard,False,card
+cindydeleon@yahoo.com,i06wwil9n,Citizens First Banks,Diners Club / Carte Blanche,False,card
+cindydeleon@yahoo.com,vaf2bri7z,Bulwark Trust Corp.,JCB 15 digit,False,card
+kyle64@stephens-ortiz.com,kus94zksp,Fountain Financial Inc.,JCB 16 digit,True,card
+jordanthomas@hayes-wilson.biz,pf64zbjh1,Bulwark Trust Corp.,VISA 13 digit,False,card
+jordanthomas@hayes-wilson.biz,fgfa24tpk,Bulwark Trust Corp.,Mastercard,False,card
+jordanthomas@hayes-wilson.biz,3frwqeid5,Solace Banks,Discover,False,card
+aliciaanthony@martin.com,5tyvyueom,e,Maestro,False,card
+jenniferperry@hotmail.com,45ddgqcnf,Fountain Financial Inc.,Diners Club / Carte Blanche,False,card
+jenniferperry@hotmail.com,islfepdzb,Bastion Banks,Voyager,False,card
+lsanchez@hotmail.com,9jt0mza2r,Bastion Banks,VISA 13 digit,False,card
+lsanchez@hotmail.com,8iizua67d,Her Majesty Trust,Maestro,False,card
+christinemills@mcgee.com,xrqpqnjba,Fountain Financial Inc.,Voyager,False,paypal
+christinemills@mcgee.com,1dcru1vlg,Solace Banks,Voyager,False,card
+cuevasvicki@gmail.com,h5wy1uso1,Solace Banks,JCB 16 digit,False,card
+cuevasvicki@gmail.com,ssnalg5vb,Bulwark Trust Corp.,Maestro,False,paypal
+cuevasvicki@gmail.com,eyvv5ubc3,Vertex Bancorp,Maestro,False,card
+mitchellgriffith@yahoo.com,4nf29mjz1,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,card
+gwilcox@hotmail.com,p4of42zn1,Grand Credit Corporation,Diners Club / Carte Blanche,False,card
+gwilcox@hotmail.com,ymqtqgnsg,Fountain Financial Inc.,JCB 16 digit,False,card
+gwilcox@hotmail.com,4mhghx2g1,Rose Bancshares,Diners Club / Carte Blanche,False,card
+gwilcox@hotmail.com,xlsn61ipv,His Majesty Bank Corp.,VISA 13 digit,True,card
+gwilcox@hotmail.com,bddoq1fwc,Vertex Bancorp,Diners Club / Carte Blanche,False,card
+victorgarcia@gmail.com,4y1kp0vsv,Grand Credit Corporation,Maestro,False,card
+brittany60@yahoo.com,lp97onnto,His Majesty Bank Corp.,Diners Club / Carte Blanche,False,bitcoin
+brittany60@yahoo.com,qp0jwedbw,Rose Bancshares,VISA 13 digit,False,card
+fharris@hotmail.com,orf4mjxo2,Her Majesty Trust,VISA 16 digit,False,card
+mercedesfinley@roman.org,69mblcjgi,Her Majesty Trust,Discover,True,card
+mercedesfinley@roman.org,muqv21w62,His Majesty Bank Corp.,VISA 13 digit,False,apple pay
+mercedesfinley@roman.org,zim2ivw3x,Bastion Banks,Diners Club / Carte Blanche,False,card
+mercedesfinley@roman.org,yq0785i1q,Citizens First Banks,American Express,False,card
+1yf0@jedyz63t,0l7kszls7,Bastion Banks,VISA 13 digit,False,card
+1yf0@jedyz63t,ohx3ynpi2,Her Majesty Trust,American Express,False,paypal
+1yf0@jedyz63t,igpmsjd73,Bastion Banks,Mastercard,False,paypal
+1yf0@jedyz63t,vej6hz0vq,Rose Bancshares,Maestro,False,card
+thomasryan@conrad.net,zn4e11ck7,Citizens First Banks,Diners Club / Carte Blanche,False,paypal
+thomasryan@conrad.net,n5z9rxst8,Citizens First Banks,American Express,False,apple pay
+kwalsh@lopez-gomez.biz,2d00yljsp,B,VISA 13 digit,False,paypal
+kwalsh@lopez-gomez.biz,kjt28bu2n,e,Maestro,True,card
+martinezlori@gmail.com,866s0p6rq,Solace Banks,VISA 13 digit,True,card
+johnlowery@gmail.com,8wpdnmsut,Vertex Bancorp,JCB 16 digit,False,paypal
+johnlowery@gmail.com,hs3hemcz6,Vertex Bancorp,Maestro,False,card
+johnlowery@gmail.com,b001ip7wj,His Majesty Bank Corp.,JCB 15 digit,False,apple pay
+stevehernandez@gmail.com,8ty2ztfnr,Grand Credit Corporation,Maestro,False,apple pay
+daniel98@lamb.com,oqkj50e71,Grand Credit Corporation,Discover,False,card
+ujackson@harris.com,1phhc3468,Bulwark Trust Corp.,VISA 13 digit,False,card
+ujackson@harris.com,dby03chrc,Rose Bancshares,Mastercard,False,card
+brittanyhicks@jones.com,ti77llxpi,Bulwark Trust Corp.,Diners Club / Carte Blanche,True,card
+deborah38@yahoo.com,kzpdmdk05,o,VISA 16 digit,False,card
+andre74@patrick-decker.com,z4jrvn93k,Bastion Banks,JCB 16 digit,False,card
+andre74@patrick-decker.com,sncnkxatz,Her Majesty Trust,VISA 16 digit,False,paypal
+andre74@patrick-decker.com,ru0jjkjlt,Grand Credit Corporation,JCB 16 digit,False,card
+andre74@patrick-decker.com,6umtakhhu,Her Majesty Trust,VISA 16 digit,False,apple pay
+patrickcalderon@russo.net,sptgc1wgt,Her Majesty Trust,American Express,False,apple pay
+mitchellvickie@brewer-jones.com,x644o186l,His Majesty Bank Corp.,JCB 16 digit,False,card
+sbrown@hughes.biz,wsy5c41nf,B,Voyager,False,card
+sbrown@hughes.biz,vmktpy2mv,o,Discover,False,card
+sbrown@hughes.biz,usu93euvb,x,Voyager,False,card
+johnlowery@gmail.com,j3foo2l16,Vertex Bancorp,JCB 16 digit,False,card
+johnlowery@gmail.com,xpd7j7c5g,Fountain Financial Inc.,JCB 16 digit,False,card
+ethompson@jackson-sanders.com,b3jl38c9g,Bastion Banks,Diners Club / Carte Blanche,False,card
+ethompson@jackson-sanders.com,kcg6rzgch,Citizens First Banks,Maestro,False,card
+ethompson@jackson-sanders.com,pj3k9zcc7,Solace Banks,JCB 16 digit,False,bitcoin
+ethompson@jackson-sanders.com,hx496w5tf,Vertex Bancorp,VISA 16 digit,False,apple pay
+ethompson@jackson-sanders.com,oycs53i0s,Citizens First Banks,Voyager,False,card
+ethompson@jackson-sanders.com,1tmkeoxbm,Bulwark Trust Corp.,American Express,False,card
+dawn05@tucker-brown.com,f0xnu5om9,His Majesty Bank Corp.,JCB 16 digit,False,card
+dawn05@tucker-brown.com,3zmkegkb8,Bastion Banks,JCB 15 digit,False,paypal
+dawn05@tucker-brown.com,7yen1m1q8,Vertex Bancorp,VISA 13 digit,False,card
+dawn05@tucker-brown.com,rh7676yct,Citizens First Banks,VISA 13 digit,True,apple pay
